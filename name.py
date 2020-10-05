@@ -18,8 +18,8 @@ def sendMessage(chat_id,text):
     }
 
     keyboard = [
-        [kb1,kb2],
-        [kb3,kb4]
+        [kb4,kb2],
+        [kb3,kb1]
     ]
 
     replykeyboard ={
